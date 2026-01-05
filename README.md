@@ -12,6 +12,9 @@ In traditional finance, portfolio optimisation involves selecting assets to maxi
 | [Michael Ndai](mailto:michaelndai7@gmail.com) | Student | Bachelors | [@Mjndai7](https://github.com/Mjndai17) |
 | [Victor Cedric Ng'ang'a](mailto:cedricvictor450@gmail.com) | Student | Bachelors | [@ced-sys](https://github.com/ced-sys) |
 
+## Presentation 
+[Presentation](https://drive.google.com/file/d/1Q0o_ucQlNw5CGMQ7RPqjhQWMrFmjGcmO/view?usp=sharing)
+
 ## Tech Stack
 - QUBO/Ising problem formulation
 - Qiskit
@@ -56,6 +59,10 @@ Our solution provides:
 - Portfolio risk
 - Total transaction cost (in billion of USD)
 - Sector Allocation breakdown
+
+## Data visualization
+
+The generated visuals are on pages 14 & 15 of [Presentation](https://drive.google.com/file/d/1Q0o_ucQlNw5CGMQ7RPqjhQWMrFmjGcmO/view?usp=sharing).
 
 ## Acknowledgements
 
